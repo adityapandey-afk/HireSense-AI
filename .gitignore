@@ -7,3 +7,4 @@ __pycache__/
 .streamlit/
 test_hiresense.db
 uploads/
+*.db
